@@ -1,0 +1,30 @@
+Queue length: 5
+Number of bottling machines: 3
+
+Amount Client: 3113
+The number of client that left:365
+Amount Salary: 133270.41249999977
+Average gasoline volume sold per week: 
+A100: 27364
+A95: 27349
+A92: 26854
+Average gasoline volume sold per day: 
+A100: 3909.0
+A95: 3907.0
+A92: 3836.0
+###################################################
+Queue length: 5
+Number of bottling machines: 3
+
+Amount Client: 3010
+The number of client that left:0
+Amount Salary: 145104.8699999993
+Average gasoline volume sold per week: 
+A100: 29650
+A95: 30009
+A92: 29163
+Average gasoline volume sold per day: 
+A100: 4235.0
+A95: 4287.0
+A92: 4166.0
+###################################################
